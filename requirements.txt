@@ -1,0 +1,6 @@
+uvicorn
+pydantic
+fastapi
+drive
+jinja2
+python-dotenv

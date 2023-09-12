@@ -1,0 +1,8 @@
+.space
+/env
+/__pycache__
+Spacefile
+.env
+todo
+./Storage
+.git
