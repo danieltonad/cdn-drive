@@ -1,6 +1,6 @@
 uvicorn
 pydantic
 fastapi
-drive
+deta
 jinja2
 python-dotenv
