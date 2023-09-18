@@ -1,6 +1,9 @@
 from fastapi import FastAPI, UploadFile, HTTPException
 from fastapi.responses import HTMLResponse
 from fastapi.responses import Response
+from config.file import drive
+
+app = FastAPI()
 
 # Set maximum file size to 100 MB
 MAX_FILE_SIZE = 100 * 1024 * 1024
